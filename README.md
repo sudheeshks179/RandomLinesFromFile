@@ -7,3 +7,6 @@ Print n random lines from file.<br />
 ./RandomLinesFromFile -filename /tmp/file.txt -numberOfLines 100<br />
 or<br />
 ./RandomLinesFromFile -filename words_alpha.txt -numberOfLines 100<br />
+or<br />
+./RandomLinesFromFile <noLinestoPrint>
+eg: ./RandomLinesFromFile 4 
