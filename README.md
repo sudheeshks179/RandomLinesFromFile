@@ -1,9 +1,9 @@
 # RandomLinesFromFile
-print n random lines from file
-compile using
-go build
+Print n random lines from file.<br />
+## Compilation:<br />
+   go build<br />
 
-run
-./RandomLinesFromFile -filename /tmp/file.txt -numberOfLines 100
-or
-./RandomLinesFromFile -filename words_alpha.txt -numberOfLines 100
+## Run<br />
+./RandomLinesFromFile -filename /tmp/file.txt -numberOfLines 100<br />
+or<br />
+./RandomLinesFromFile -filename words_alpha.txt -numberOfLines 100<br />
